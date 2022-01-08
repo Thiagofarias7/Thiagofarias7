@@ -3,7 +3,7 @@
 - Estudando Javascript
 - Bolsista CNPQ-EM
 <div align="center">
-  <a href="https://https://github.com/Thiagofarias7/Thiagofarias7">
+  <a href="https://github.com/Thiagofarias7/Thiagofarias7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofarias7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofarias7&layout=compact&langs_count=7&theme=dracula"/>
 </div>
