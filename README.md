@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Thiago Farias
 - Curso técnico em informática pela EAJ/UFRN
 - Cristão/IEADERN
-- Estudando Javascript
 - Bolsista CNPQ-EM
 <div align="center">
   <a href="https://github.com/Thiagofarias7/Thiagofarias7">
