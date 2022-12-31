@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Thiago Farias
 - Curso técnico em informática pela EAJ/UFRN
 - Cristão/IEADERN
-- Bolsista CNPQ-EM
+- Jesus is Enough
 <div align="center">
   <a href="https://github.com/Thiagofarias7/Thiagofarias7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofarias7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
