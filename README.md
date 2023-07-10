@@ -1,4 +1,4 @@
-## Olá! Eu sou o Thiago Farias, apaixonado por programação, eletrônica e integrais.
+## Olá! Eu sou o Thiago Farias, apaixonado por programação, eletrônica, integrais e por Jesus!
 - Cristão/IEADERN
 - Curso técnico em informática pela EAJ/UFRN (Cursando)
 - Jesus is Enough
